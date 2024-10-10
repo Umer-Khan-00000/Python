@@ -1,0 +1,3 @@
+import umer
+
+umer.welcome()
