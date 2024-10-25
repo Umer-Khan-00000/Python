@@ -2,7 +2,7 @@
 
 > My Course Accomplishes the Basics of Python Development.
 
-[alt text](download.jpg)
+[alt text](python.png)
 
 ## Installation
 
