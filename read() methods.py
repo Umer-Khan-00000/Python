@@ -1,4 +1,3 @@
-
 #Example commented out for appendding in a file :
 
 # f = open('Day 50 Example.txt', 'r')
