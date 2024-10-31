@@ -12,3 +12,10 @@
    ```bash
    git clone https://github.com/Umer-Khan-00000/Python.git
    cd Python
+
+### Notes:
+- **Coding & Decoding**
+- **Secret Code Language Messgaes**: purpose and functionality.
+- **umerwork3931@gmail.com**: Email
+  
+This README template should provide a strong starting point for any Python project on GitHub.
