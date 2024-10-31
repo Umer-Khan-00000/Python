@@ -14,8 +14,8 @@
    cd Python
 
 ### Notes:
-- **Coding & Decoding**
-- **Secret Code Language Messgaes**: purpose and functionality.
-- **umerwork3931@gmail.com**: Email
+- **Project Name :** **Coding & Decoding**
+- **Purpose and Functionality** : **Secret Code Language Messgaes**
+- Email : **umerwork3931@gmail.com**
   
 This README template should provide a strong starting point for any Python project on GitHub.
