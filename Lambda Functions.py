@@ -16,7 +16,6 @@ def appl(fx, value):
     return 6 + fx(value)
 
 # Printing this function --->
-print(appl(cube, 2))
-
-
+# print(appl(lambda x : x * x, 2)) ---> Use This 
+print(appl(cube, 2)) # <--- Or This
 
