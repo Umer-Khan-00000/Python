@@ -17,3 +17,6 @@ def info(self):
 # a.info()
 
 print(f"{Person.Name} is a {Person.Occupation}")
+
+
+
