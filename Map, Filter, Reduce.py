@@ -43,7 +43,7 @@ from functools import reduce
 List3 = [1, 2, 3, 4, 5]
 
 # Calculating Sum of all Numbers --->
-def sum(x, y):
+def sum(x, y):  
       return x + y
 
 sum = reduce(sum, List3)
@@ -51,4 +51,3 @@ sum = reduce(sum, List3)
 # Printing Sum of all Numbers --->
 print("\nThis is an output for reduce method :")
 print(sum)
- 
