@@ -11,7 +11,9 @@ def info(self):
     print(f"{self.Name} is a {self.Occupation}")
 
 # Calling the method --->
-a = Person()
-a.Name = "Mustafa"
-a.Occupation = "Doctor"
-a.info()
+# a = Person()
+# a.Name = "Mustafa"
+# a.Occupation = "Doctor"
+# a.info()
+
+print(f"{Person.Name} is a {Person.Occupation}")
