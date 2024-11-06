@@ -1,22 +1,31 @@
-                            # ~~~ CLASSES AND OBJECTS  ~~~
+class Person:
+    name = "Umer"
+    occupation = "Software Developer"
+    networth = "120,000"
+    
+    def info(self):
+        print(f"{self.name} is a {self.occupation}")
+        # print(f"His net worth is {self.networth} Dollars")
 
-# Making a class named Person --->
-class Person :
-    Name = "Umer"
-    Occupation = "Python Developer"
-    NetWorth = 125000
+a = Person()
+b = Person()
+c = Person()
 
-# Creating a method (using self parameter) --->
-def info(self):
-    print(f"{self.Name} is a {self.Occupation}")
+# Changing Name and Occupation --->
 
-# Calling the method --->
-# a = Person()
-# a.Name = "Mustafa"
-# a.Occupation = "Doctor"
-# a.info()
+# Changing Name on the basis a --->
+a.name = "Ali"
+a.occupation = "Data Scientest"
 
-print(f"{Person.Name} is a {Person.Occupation}")
+# Changing Name on the basis of b --->
+b.name = "Hasan"
+b.occupation = "Web Devloper"
 
+# Changing Name on the basis c --->
+c.name = "Ahmed"
+c.occupation = "Photographer"
 
+a.info()
+b.info()
+c.info( )
 
