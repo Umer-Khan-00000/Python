@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 
 Hello Everyone ...
 My name is Umer and I am a good boy 
 This is course is great .
-=======
 67,73,71
 56,93,81
 97,77,83
->>>>>>> 86596cf867e69b37a4e396453bcaf03926791e4a
