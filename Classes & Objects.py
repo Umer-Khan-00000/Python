@@ -23,6 +23,7 @@ b.occupation = "Web Devloper"
 
 # Changing Name on the basis c --->
 c.name = "Ahmed"
+
 c.occupation = "Photographer"
 
 a.info()
