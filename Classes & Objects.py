@@ -27,5 +27,7 @@ c.occupation = "Photographer"
 
 a.info()
 b.info()
-c.info( )
+c.info()
+
+
 
