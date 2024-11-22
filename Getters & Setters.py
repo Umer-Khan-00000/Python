@@ -1,8 +1,9 @@
 class MyClass:
   def __init__(self, value):
       self._value = value
+      
+    # def __init__ : used for creating instances for classes
     
-
   def show(self):
     print(f"Value is {self._value}")
     
