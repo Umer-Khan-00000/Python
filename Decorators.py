@@ -12,8 +12,4 @@ def greet(fx):
 @greet
 def hello():
     print("Hello, World!")
-
-
-
-
     
