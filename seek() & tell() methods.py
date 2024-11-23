@@ -13,6 +13,7 @@
 #     data = f.read(5)
     # print(data)
 
+
 # -------------------------------EXAMPLE NO. 02 :--------------------------
 
 with open('Day 51 Example2.txt', 'w') as f:
