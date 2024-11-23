@@ -6,6 +6,7 @@
 # a = 4
 # b = "4"
 
+
 # Declaring variables with a list --->
 # a = [1, 2 ,3]
 # b = [1, 2 ,3]
