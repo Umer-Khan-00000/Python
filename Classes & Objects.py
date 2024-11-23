@@ -4,6 +4,7 @@ class Person:
     networth = "120,000"
     hobby = "Football"
     
+    
     def info(self):
         print(f"{self.name} is a {self.occupation}")
         print(f"His net worth is {self.networth} Dollars")
