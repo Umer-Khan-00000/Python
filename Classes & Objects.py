@@ -3,7 +3,8 @@ class Person:
     occupation = "Software Developer"
     networth = "120,000"
     hobby = "Football"
-    
+
+
     
     def info(self):
         print(f"{self.name} is a {self.occupation}")
