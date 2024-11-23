@@ -14,6 +14,7 @@ def isGreater (a, b) :
 a = 10
 b = 2
 
+
 # isGreater(a, b)
 CalculateMean(a, b) 
 
