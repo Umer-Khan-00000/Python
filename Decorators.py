@@ -9,6 +9,7 @@ def greet(fx):
     print("Thanks for using this function!")
     return greet
 
+
 @greet
 def hello():
     print("Hello, World!")
