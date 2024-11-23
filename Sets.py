@@ -6,5 +6,7 @@ print(Umer)
 
 for value in set1:
   print(set1[0])
+  
+
 
 
