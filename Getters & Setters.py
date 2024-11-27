@@ -21,3 +21,7 @@ print(obj.ten_value)
 obj.show()
 
 
+
+
+
+
